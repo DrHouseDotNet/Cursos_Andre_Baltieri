@@ -1,0 +1,53 @@
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\ApplicationInsights.config
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\csc.exe
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\vbc.exe
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\VBCSCompiler.exe
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Sidnei - Curso1939.dll.config
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Sidnei - Curso1939.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Sidnei - Curso1939.pdb
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Antlr3.Runtime.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.Web.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Newtonsoft.Json.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Helpers.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Mvc.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Optimization.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Razor.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.WebPages.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.WebPages.Razor.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\WebGrease.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.Web.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Helpers.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Mvc.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Optimization.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.Razor.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.WebPages.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\System.Web.WebPages.Razor.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Antlr3.Runtime.pdb
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\bin\Newtonsoft.Json.xml
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\obj\Debug\Sidnei - Curso1939.csprojResolveAssemblyReference.cache
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\obj\Debug\Sidnei - Curso1939.dll
+D:\Documents\1 - REPOSITÓRIO DE CODIGOS FONTES\Cursos_Andre_Baltieri\Sidnei - Curso1939\Sidnei - Curso1939\obj\Debug\Sidnei - Curso1939.pdb
